@@ -20,7 +20,7 @@
 
 ## db.sqlite3
 
-按上述目录结构生成的索引数据库，供检索类应用（如 [LawRefBook](https://github.com/RanKKI/LawRefBook)）直接读取使用。
+按上述目录结构生成的索引数据库，供检索类应用直接读取使用。
 
 ## 数据来源
 
