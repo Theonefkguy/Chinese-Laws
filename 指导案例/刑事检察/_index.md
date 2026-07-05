@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 刑事检察
 
 共 158 个案例。

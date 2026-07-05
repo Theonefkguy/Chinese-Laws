@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 民事检察
 
 共 15 个案例。

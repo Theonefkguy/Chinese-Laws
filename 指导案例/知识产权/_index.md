@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 知识产权
 
 共 41 个案例。

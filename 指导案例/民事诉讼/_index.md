@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 民事诉讼
 
 共 21 个案例。

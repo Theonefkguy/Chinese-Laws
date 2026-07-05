@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 行政检察
 
 共 19 个案例。

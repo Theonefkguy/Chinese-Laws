@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 控告申诉检察
 
 共 7 个案例。

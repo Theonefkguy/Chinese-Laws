@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 执行
 
 共 21 个案例。

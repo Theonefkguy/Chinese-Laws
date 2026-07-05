@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 公益诉讼检察
 
 共 47 个案例。

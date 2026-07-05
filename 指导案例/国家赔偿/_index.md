@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 国家赔偿
 
 共 11 个案例。

@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # 刑事诉讼
 
 共 2 个案例。
